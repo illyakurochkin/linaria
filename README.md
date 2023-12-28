@@ -33,7 +33,7 @@ Zero-runtime CSS in JS library.
 - Optionally use any **CSS preprocessor** such as Sass or PostCSS
 - Supports **atomic styles** with `@linaria/atomic`
 
-**[Why use Linaria](/docs/BENEFITS.md)**
+**[Why use Linaria](/master/docs/BENEFITS.md)**
 
 **[Learn how Airbnb improved both developer experience and web performance with Linaria](https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12)**
 
