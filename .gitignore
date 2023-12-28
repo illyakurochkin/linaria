@@ -78,3 +78,6 @@ tsconfig.tsbuildinfo
 *.debug.ts
 **/linaria-debug
 **/wyw-debug
+
+# IDEs
+.idea
